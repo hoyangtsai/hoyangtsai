@@ -5,7 +5,7 @@
 
 -------
 
-:octocat: **Github Stats**
+:octocat: **Github stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
 
@@ -13,7 +13,7 @@
 
 -------
 
-📊 **Weekly development breakdown**
+:computer: **Weekly activities**
 <!--START_SECTION:waka-->
 ```text
 HTML       1 hr 7 mins     ████████████████░░░░░░░░░   63.48 % 
