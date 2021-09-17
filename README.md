@@ -13,7 +13,7 @@
 
 -------
 
-:computer: **Weekly development**
+:computer: **Dev activities**
 <!--START_SECTION:waka-->
 ```text
 HTML       1 hr 7 mins     ████████████░░░░░░░░░░░░░   48.41 % 
