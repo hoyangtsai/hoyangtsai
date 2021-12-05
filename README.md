@@ -16,11 +16,11 @@
 :computer: **Dev activities**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 1 min    ███████████████▒░░░░░░░░░   61.61 % 
-Markdown     4 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
-HTML         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-JSON         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript   14 hrs 54 mins  ████████████████████░░░░░   80.41 % 
+Markdown     1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TypeScript   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
 
