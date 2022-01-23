@@ -16,11 +16,11 @@
 :computer: **Dev activities**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 hrs 30 mins  ████████████░░░░░░░░░░░░░   47.60 % 
-YAML         4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JavaScript   3 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Other        2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JSON         2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JavaScript   11 hrs 28 mins  █████████▓░░░░░░░░░░░░░░░   38.88 % 
+TypeScript   8 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+JSON         3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+YAML         2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Other        1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 <!--END_SECTION:waka-->
 
