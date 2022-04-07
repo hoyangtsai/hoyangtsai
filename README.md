@@ -27,3 +27,6 @@ Other        24 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 -------
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hoyangtsai/hoyangtsai" alt="visitor"/>
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoyangtsai/hoyangtsai) -->
