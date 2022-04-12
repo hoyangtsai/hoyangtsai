@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Hoyang</h2>
+<h3 align="">Hi, there 👋</h3>
 
 - 🌱 I’m currently learning **DevOps and Algorithms**
 - 💬 Ask me about **Javascript and Git**
