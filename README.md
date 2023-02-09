@@ -7,9 +7,9 @@
 
 :octocat: **Github stats**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
+![Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyangtsai&theme=blueberry&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=blueberry&layout=compact&langs_count=8)
 
 -------
 
