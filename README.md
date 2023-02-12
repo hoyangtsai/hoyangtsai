@@ -1,7 +1,7 @@
 <h3 align="">Hi, there 👋</h3>
 
-- 🌱 I’m currently learning **DevOps and Algorithms**
-- 💬 Ask me about **Javascript and Git**
+- 🌱 I’m currently learning **DevOps** and **Algorithms**
+- 💬 Ask me about **Javascript** and **Git**
 
 ### Languages and Tools
 
@@ -30,6 +30,10 @@
 
 <br />
 <br />
+
+### Spotify playing 🎧
+
+[![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)
 
 -------
 
