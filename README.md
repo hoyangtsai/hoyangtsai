@@ -1,9 +1,9 @@
-<h3 align="">Hi, there 👋</h3>
+## Hi there, I'm Hoyang 👋
 
-- 🌱 I’m currently learning **DevOps** and **Algorithms**
-- 💬 Ask me about **Javascript** and **Git**
+- I'm a software engineer.
+- Mostly working on web application development.
 
-### Languages and Tools
+## 💻 Coding with
 
 <img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -22,38 +22,22 @@
 [<img align="left" alt="GitHub" width="24px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://github.com/hoyangtsai#gh-light-mode-only)
 
 <img align="left" alt="Gitlab" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Azure" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="VS Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-[<img align="left" alt="GitHub" width="24px" src="/assets/terminal-dark.svg" />](https://github.com/hoyangtsai#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="24px" src="/assets/terminal-light.svg" />](https://github.com/hoyangtsai#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="24px" src="/assets/terminal-dark.svg" />](https://github.com/hoyangtsai#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="24px" src="/assets/terminal-light.svg" />](https://github.com/hoyangtsai#gh-light-mode-only)
 
 <br clear="left"/>
 
-### Spotify playing 🎧
+## 🎧 Spotify playing
 
 [![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)
 
--------
-
-### Github stats :octocat:
+## :octocat: Github stats 
 
 ![Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
 
 ![Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=blueberry&layout=compact&langs_count=8)
-
--------
-
-### Dev activities :computer:
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 -------
 
