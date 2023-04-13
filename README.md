@@ -29,25 +29,24 @@
 
 <br clear="left"/>
 
-## 🎧 Spotify Playing
-
-[![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)        
-
-## :octocat: Github Stats 
-
-![Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
-
-![Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=blueberry&layout=compact&langs_count=8)
-
 ## GitHub Contribution
 
 ![](https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/main/assets/github-contribution-grid-snake.svg)
+
+## Github Stats 
+
+[![hoyangtsai's Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/hoyangtsai/github-readme-stats)
+
+[![hoyangtsai's Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=github_dark_dimmed&layout=compact)](https://github.com/hoyangtsai/github-readme-stats)
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)
 
 -------
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hoyangtsai/hoyangtsai" alt="visitor"/>
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoyangtsai/hoyangtsai) -->
-
 
 [twitter]: https://twitter.com/hoyangtsai
 [linkedin]: https://linkedin.com/in/hoyangtsai
