@@ -29,17 +29,17 @@
 
 <br clear="left"/>
 
-## 🎧 Spotify playing
+## 🎧 Spotify Playing
 
 [![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)        
 
-## :octocat: Github stats 
+## :octocat: Github Stats 
 
 ![Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=blueberry)
 
 ![Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=blueberry&layout=compact&langs_count=8)
 
-## My Github Contribution
+## GitHub Contribution
 
 ![](https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/main/assets/github-contribution-grid-snake.svg)
 
