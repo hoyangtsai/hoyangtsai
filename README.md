@@ -33,11 +33,11 @@
 
 ![](https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/main/assets/github-contribution-grid-snake.svg)
 
-## Github Stats 
+## Github Stats https://github-readme-stats.vercel.app/api
 
-[![hoyangtsai's Github Stats](https://github-readme-stats-hoyangtsai.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/hoyangtsai/github-readme-stats)
+[![hoyangtsai's Github Stats](https://github-readme-stats.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/hoyangtsai/github-readme-stats)
 
-[![hoyangtsai's Top Langs](https://github-readme-stats-hoyangtsai.vercel.app/api/top-langs/?username=hoyangtsai&theme=github_dark_dimmed&layout=compact)](https://github.com/hoyangtsai/github-readme-stats)
+[![hoyangtsai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyangtsai&theme=github_dark_dimmed&layout=compact)](https://github.com/hoyangtsai/github-readme-stats)
 
 ## 🎧 Spotify Playing
 
