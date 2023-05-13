@@ -33,7 +33,7 @@
 
 ![](https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/main/assets/github-contribution-grid-snake.svg)
 
-## Github Stats https://github-readme-stats.vercel.app/api
+## Github Stats
 
 [![hoyangtsai's Github Stats](https://github-readme-stats.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/hoyangtsai/github-readme-stats)
 
