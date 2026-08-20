@@ -3,7 +3,7 @@
 - I'm a software engineer.
 - Mostly working on web application development.
 
-## 💻 Coding with
+## 💻 Coding
 
 <img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -29,7 +29,7 @@
 
 <br clear="left"/>
 
-## GitHub Contribution
+## Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/output/github-contribution-grid-snake-dark.svg">
@@ -37,20 +37,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoyangtsai/hoyangtsai/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Github Stats
+## Stats
 
 [![Hoynag's Stats](https://github-stats-extended.vercel.app/api?username=hoyangtsai&rank_icon=github&custom_title=Hoyang%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=hoyangtsai&rank_icon=github&custom_title=Hoyang%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 [![Hoyang's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=hoyangtsai&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=hoyangtsai&layout=compact&langs_count=6&theme=tokyonight)
 
-## 🎧 Spotify Playing
+## 🎧 Playing
 
-[![Spotify](https://novatorem-hoyang.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/hoyang)
+[![Spotify](https://novatorem-two-beta.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/hoyang)
 
 -------
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hoyangtsai/hoyangtsai" alt="visitor"/>
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoyangtsai/hoyangtsai) -->
-
-[twitter]: https://twitter.com/hoyangtsai
-[linkedin]: https://linkedin.com/in/hoyangtsai
