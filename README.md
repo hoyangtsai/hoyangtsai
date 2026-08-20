@@ -45,7 +45,7 @@
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://spotify-now-playing-hoyangtsai.vercel.app/api/spotify)](https://open.spotify.com/user/11100258299)
+[![Spotify](https://novatorem-hoyang.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/hoyang)
 
 -------
 
