@@ -39,9 +39,9 @@
 
 ## Github Stats
 
-[![hoyangtsai's Github Stats](https://github-readme-stats.vercel.app/api?username=hoyangtsai&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/hoyangtsai/github-readme-stats)
+[![Hoynag's Stats](https://github-stats-extended.vercel.app/api?username=hoyangtsai&rank_icon=github&custom_title=Hoyang%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=hoyangtsai&rank_icon=github&custom_title=Hoyang%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-[![hoyangtsai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyangtsai&theme=github_dark_dimmed&layout=compact)](https://github.com/hoyangtsai/github-readme-stats)
+[![Hoyang's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=hoyangtsai&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=hoyangtsai&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 🎧 Spotify Playing
 
