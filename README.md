@@ -45,7 +45,7 @@
 
 ## 🎧 Playing
 
-<a href="https://open.spotify.com/user/11100258299"><img src="https://novatorem-two-beta.vercel.app/api/orchestrator?background_type=blur_dark" alt="Spotify" width="60%" /></a>
+<a href="https://open.spotify.com/user/11100258299"><img src="https://novatorem-two-beta.vercel.app/api/orchestrator?background_type=blur_dark" alt="Spotify" /></a>
 
 -------
 
