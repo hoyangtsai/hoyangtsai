@@ -45,9 +45,9 @@
 
 ## 🎧 Playing
 
-[![Spotify](https://novatorem-two-beta.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/hoyang)
+<a href="https://open.spotify.com/user/hoyang"><img src="https://novatorem-two-beta.vercel.app/api/orchestrator?background_type=blur_dark" alt="Spotify" width="60%" /></a>
 
 -------
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=hoyangtsai/hoyangtsai" alt="visitor"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hoyangtsai/hoyangtsai" alt="visitor" />
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hoyangtsai/hoyangtsai) -->
